@@ -1,7 +1,7 @@
 ## Olá 👋, Sou Matheus Bastos
 
 
-<a href="https://www.linkedin.com/in/matheusvbastos/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:matheuspvbastos@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/gmail-%230077B5.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="instagram.com/matbastos_" target="_blank"><img alt="instagram" src="https://img.shields.io/badge/Instagram-%230077B5.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/matheusvbastos/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:matheuspvbastos@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/gmail-%230077B5.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="instagram.com/matbastos_" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%230077B5.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 Sou estudante pós graduando em Desenvolvimento Web 🎓 pela Anhanguera 🏛. Sou um aprendiz apaixonado que está sempre disposto a aprender e trabalhar em novas tecnologias 💡. 
 
