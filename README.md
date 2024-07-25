@@ -1,7 +1,7 @@
 ## Olá 👋, Sou Matheus Bastos
 
 
-![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/matheusvbastos/) [![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:manumanoj0010@gmail.com)](mailto:matheuspvbastos@gmail.com) [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/m.a.n.u.m.a.n.o.j/)](https://instagram.com/matbastos_) 
+![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/matheuspvbastos/) [![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matheuspvbastos@gmail.com)](mailto:matheuspvbastos@gmail.com) [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white&link=/https://instagram.com/matbastos_)](https://instagram.com/matbastos_) 
 
 Sou estudante pós graduando em Desenvolvimento Web 🎓 pela Anhanguera 🏛. Sou um aprendiz apaixonado que está sempre disposto a aprender e trabalhar em novas tecnologias 💡. 
 
