@@ -16,3 +16,8 @@ Sou estudante pós graduando em Desenvolvimento Web 🎓 pela Anhanguera 🏛. S
 
 <a href="https://www.w3.org/html/" target="_blank"> <img src="images/html.png" alt="html5" width="60" height="60"/></a> 
 <a href="https://www.w3schools.com/css/" target="_blank"><img src="images/css.png" alt="css3" width="60" height="60"/><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="images/javascript.png" alt="javascript" width="60" height="60"/>
+
+<h2>ℹ️ &nbsp;Github Info</h2>
+
+![Matheus Status](https://github-readme-stats.vercel.app/api?username=matheuspvbastos&show_icons=true)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=matheuspvbastos&layout=compact)](https://github.com/matheuspvbastos/github-readme-stats)
