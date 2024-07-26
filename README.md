@@ -12,8 +12,9 @@
 
 ### 🚀 Pequenos Projetos:
 
-- [Artigo sobre Curiosidades do Android](https://matheuspvbastos.github.io/estudos/html-css/projeto-android/android.html)
-- [Cordel Moderno](https://matheuspvbastos.github.io/estudos/html-css/projeto-cordel/)
+- [Artigo sobre Curiosidades do Android aperfeiçoando as CSS](https://matheuspvbastos.github.io/estudos/html-css/projeto-android/android.html)
+- [Cordel Moderno usando o efeito Parallax](https://matheuspvbastos.github.io/estudos/html-css/projeto-cordel/)
+- [Tela de Login com responsividade utilizando Media Query](https://matheuspvbastos.github.io/estudos/html-css/projeto-tela-de-login/)
 
 ## 🛠 Tecnologias: 
 
