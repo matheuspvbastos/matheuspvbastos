@@ -4,10 +4,10 @@
 
 ### Sobre mim:
 
-- 🎓 Sou estudante Pós Graduando em Desenvolvimento Web pela Anhanguera
+- 🎓 Entusiasta pela tecnologia
 - 🎨 Já atuei como Designer Gráfico
 - 💻 Atualmente aprendendo desenvolvimento web com HTML, CSS e JavaScript 
-- 💡 Sou um aprendiz curioso que está sempre disposto a aprender e trabalhar em novas tecnologias 
+- 💡 Um aprendiz curioso que está sempre disposto a aprender e trabalhar em novas tecnologias 
 - 🌐 Visite meu [Portifolio](https://matheuspvbastos.github.io/estudos/html-css/projeto-portfolio/)
 
 ### 🚀 Pequenos Projetos:
