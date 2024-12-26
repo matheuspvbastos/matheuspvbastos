@@ -9,6 +9,7 @@
 - 💻 Atualmente aprendendo desenvolvimento web com HTML, CSS e JavaScript 
 - 💡 Um aprendiz curioso que está sempre disposto a aprender e trabalhar em novas tecnologias 
 - 🌐 Visite meu [Portifolio](https://matheuspvbastos.github.io/estudos/html-css/projeto-portfolio/)
+- 
 
 ### 🚀 Pequenos Projetos:
 
@@ -16,6 +17,9 @@
 - [Cordel Moderno usando o efeito Parallax](https://matheuspvbastos.github.io/estudos/html-css/projeto-cordel/)
 - [Tela de Login com responsividade utilizando Media Query](https://matheuspvbastos.github.io/estudos/html-css/projeto-tela-de-login/)
 - [Relógio Digital](https://matheuspvbastos.github.io/estudos/javascript/cursoJS/exercicios/projeto01/)
+- [Verificador de Idade](https://matheuspvbastos.github.io/estudos/javascript/cursoJS/exercicios/projeto02/)
+- [Gerador de Tabuada](https://matheuspvbastos.github.io/estudos/javascript/cursoJS/exercicios/projeto04/)
+- [Analizador de Números utilizando Arrays](https://matheuspvbastos.github.io/estudos/javascript/cursoJS/exercicios/projeto05/)
 
 ## 🛠 Tecnologias: 
 
