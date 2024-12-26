@@ -9,7 +9,6 @@
 - 💻 Atualmente aprendendo desenvolvimento web com HTML, CSS e JavaScript 
 - 💡 Um aprendiz curioso que está sempre disposto a aprender e trabalhar em novas tecnologias 
 - 🌐 Visite meu [Portifolio](https://matheuspvbastos.github.io/estudos/html-css/projeto-portfolio/)
-- 
 
 ### 🚀 Pequenos Projetos:
 
