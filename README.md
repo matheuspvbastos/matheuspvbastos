@@ -19,6 +19,7 @@
 - [Verificador de Idade](https://matheuspvbastos.github.io/estudos/javascript/cursoJS/exercicios/projeto02/)
 - [Gerador de Tabuada](https://matheuspvbastos.github.io/estudos/javascript/cursoJS/exercicios/projeto04/)
 - [Analizador de Números utilizando Arrays](https://matheuspvbastos.github.io/estudos/javascript/cursoJS/exercicios/projeto05/)
+- [Jogo do Número Secreto](https://matheuspvbastos.github.io/estudos/javascript/js-curso-2-aula1)
 
 ## 🛠 Tecnologias: 
 
