@@ -7,7 +7,7 @@
 - 🌱 Entusiasta pela Tecnologia
 - 🎓 Cursando [Análise e Desenvolvimento de Sistemas / Cruzeiro do Sul Virtual]
 - 😉 Dê uma olhada em alguns dos meus [🚀Projetos](https://github.com/matheuspvbastos/estudos)
-- [Portifolio](https://matheuspvbastos.github.io/projetos-web/meu-portifolio)
+- Veja o meu [Portifolio](https://matheuspvbastos.github.io/projetos-web/meu-portifolio)
 
 ## 🧠 Habilidades
 
