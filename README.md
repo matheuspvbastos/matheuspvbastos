@@ -15,7 +15,7 @@ Aqui estão algumas das linguagens de programação e tecnologias que estou fami
 
 ## 🛠 Tecnologias: 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)  <!-- Mais icones nesse link: https://github.com/tandpfun/skill-icons/tree/main/icons -->
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,sass)](https://skillicons.dev)  <!-- Mais icones nesse link: https://github.com/tandpfun/skill-icons/tree/main/icons -->
 
 ## ⚙️ Ferramentas:
 [![My Skills](https://skillicons.dev/icons?i=notion,vscode,github,git)](https://skillicons.dev)<br>
