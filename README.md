@@ -9,7 +9,7 @@
 
 ## 🛠 Tecnologias e Ferramentas: 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,python,cpp,arduino,notion,vscode,github,git,ps,ai,figma)](https://skillicons.dev)  <!-- Mais icones nesse link: https://github.com/tandpfun/skill-icons/tree/main/icons -->
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,python,cpp,arduino,notion,vscode,github,git,ps,ai,figma)](https://skillicons.dev)  <!-- Mais icones nesse link: https://github.com/tandpfun/skill-icons/tree/main/icons -->
 
 ## 📫 Contato
 <div>
