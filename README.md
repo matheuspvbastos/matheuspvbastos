@@ -5,7 +5,7 @@
 - 👨🏾‍🏫 Professor de Informática e Designer Freelancer
 - 🌱 Entusiasta pela Tecnologia
 - 🎓 Cursando [Análise e Desenvolvimento de Sistemas / Cruzeiro do Sul Virtual]
-- 😉 Dê uma olhada em alguns dos meus projetos: [Github](https://github.com/matheuspvbastos/estudos) e [Behance](https://github.com/matheuspvbastos/estudos)
+- 😉 Dê uma olhada em alguns dos meus projetos: [Github](https://github.com/matheuspvbastos/estudos) e [Behance](https://www.behance.net/matheuspvbastos)
 
 ## 🛠 Tecnologias e Ferramentas: 
 
